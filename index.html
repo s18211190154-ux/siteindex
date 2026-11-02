@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SiteIndex - Bangladesh Banks & Jobs</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>SiteIndex</h1>
+  <nav>
+    <button data-tab="banks" class="active">Banks</button>
+    <button data-tab="jobs">Job Links</button>
+    <button data-tab="mirrors">Mirrors</button>
+  </nav>
+</header>
+<main>
+  <section id="banks" class="tab active">
+    <div class="controls">
+      <input id="search" placeholder="Search banks..." />
+      <select id="categoryFilter">
+        <option value="">All Categories</option>
+      </select>
+    </div>
+    <div id="banksGrid" class="grid"></div>
+  </section>
+
+  <section id="jobs" class="tab">
+    <h2>bdjobs Categories</h2>
+    <ul id="jobsList" class="list"></ul>
+  </section>
+
+  <section id="mirrors" class="tab">
+    <h2>Site Mirrors</h2>
+    <div class="controls">
+      <button id="prevBank">← Prev</button>
+      <select id="mirrorBankSelect"></select>
+      <button id="nextBank">Next →</button>
+    </div>
+    <div id="mirrorDetails" class="card"></div>
+  </section>
+</main>
+<footer>
+  <p>Generated from Bangladesh Bank Careers Directory 2026 & bdjobs links.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
