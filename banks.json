@@ -6,8 +6,7 @@
     "careers": "https://career.abbl.com/",
     "notes": "Dedicated e-recruitment portal",
     "status": "Confirmed",
-    "description": "Current official portal lists job openings.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://abbl.com/ ; https://career.abbl.com/"
+    "description": "Current official portal lists job openings."
   },
   {
     "bank": "Agrani Bank PLC",
@@ -16,8 +15,7 @@
     "careers": "https://www.agranibank.org/index.php/home/career",
     "notes": "Bank career page + Bangladesh Bank e-Recruitment",
     "status": "Confirmed",
-    "description": "Official career page has appointment/recruitment notices.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.agranibank.org/ ; https://www.agranibank.org/index.php/home/career"
+    "description": "Official career page has appointment/recruitment notices."
   },
   {
     "bank": "Al-Arafah Islami Bank PLC",
@@ -26,8 +24,7 @@
     "careers": "https://www.aibl.com.bd/career/",
     "notes": "Career page + recruitment portal",
     "status": "Confirmed",
-    "description": "Official career page; separate application portal is linked from it.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.aibl.com.bd/ ; https://www.aibl.com.bd/career/"
+    "description": "Official career page; separate application portal is linked from it."
   },
   {
     "bank": "Bangladesh Commerce Bank Limited",
@@ -36,8 +33,7 @@
     "careers": "https://www.bcblbd.com/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page contains job circulars.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.bcblbd.com/ ; https://www.bcblbd.com/career"
+    "description": "Official career page contains job circulars."
   },
   {
     "bank": "Bangladesh Development Bank PLC",
@@ -46,8 +42,7 @@
     "careers": "https://bdbl.com.bd/",
     "notes": "Bank notices/HR + Bangladesh Bank e-Recruitment",
     "status": "Needs direct check",
-    "description": "No dedicated current career URL was reliably indexed in this pass; monitor bank notices and BB e-Recruitment.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://bdbl.com.bd/ ; https://erecruitment.bb.org.bd"
+    "description": "No dedicated current career URL was reliably indexed in this pass; monitor bank notices and BB e-Recruitment."
   },
   {
     "bank": "Bangladesh Krishi Bank",
@@ -56,8 +51,7 @@
     "careers": "https://www.krishibank.org.bd/mediaroom/career/",
     "notes": "Career archive + Bangladesh Bank e-Recruitment",
     "status": "Confirmed",
-    "description": "Official career archive exists.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.krishibank.org.bd/ ; https://www.krishibank.org.bd/mediaroom/career/"
+    "description": "Official career archive exists."
   },
   {
     "bank": "Bank Al-Falah Limited",
@@ -66,8 +60,7 @@
     "careers": "https://www.bankalfalah.com/bd/career-opportunities/",
     "notes": "Bangladesh career page / HR email",
     "status": "Confirmed",
-    "description": "Official Bangladesh career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.bankalfalah.com/bd/ ; https://www.bankalfalah.com/bd/career-opportunities/"
+    "description": "Official Bangladesh career page."
   },
   {
     "bank": "Bank Asia PLC",
@@ -76,8 +69,7 @@
     "careers": "https://www.bankasia-bd.com/about/career",
     "notes": "Career page + external application links when specified",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.bankasia-bd.com/ ; https://www.bankasia-bd.com/about/career"
+    "description": "Official career page."
   },
   {
     "bank": "BASIC Bank PLC",
@@ -86,8 +78,7 @@
     "careers": "https://basicbankplc.com/en/careers",
     "notes": "Dedicated career page + job opening page",
     "status": "Confirmed",
-    "description": "Official page currently shows job openings/results sections.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://basicbankplc.com/ ; https://basicbankplc.com/en/careers"
+    "description": "Official page currently shows job openings/results sections."
   },
   {
     "bank": "Bengal Commercial Bank PLC",
@@ -96,8 +87,7 @@
     "careers": "https://www.bgcb.com.bd/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page; current indexed page shows September 2026 openings.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.bgcb.com.bd/ ; https://www.bgcb.com.bd/career"
+    "description": "Official career page; current indexed page shows September 2026 openings."
   },
   {
     "bank": "BRAC Bank PLC",
@@ -106,8 +96,7 @@
     "careers": "https://bracbank.taleo.net/careersection/external/jobsearch.ftl",
     "notes": "Dedicated Taleo career portal + bank career page",
     "status": "Confirmed",
-    "description": "Official e-recruitment portal.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://bracbank.com/ ; https://bracbank.taleo.net/careersection/external/jobsearch.ftl"
+    "description": "Official e-recruitment portal."
   },
   {
     "bank": "Citibank N.A.",
@@ -116,8 +105,7 @@
     "careers": "https://jobs.citi.com/",
     "notes": "Global Citi Careers (filter Bangladesh)",
     "status": "Confirmed",
-    "description": "Bangladesh vacancies are searchable through Citi's global careers system.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.citi.com/ ; https://jobs.citi.com/"
+    "description": "Bangladesh vacancies are searchable through Citi's global careers system."
   },
   {
     "bank": "Citizens Bank PLC",
@@ -126,8 +114,7 @@
     "careers": "https://www.citizensbankbd.com/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.citizensbankbd.com/ ; https://www.citizensbankbd.com/career"
+    "description": "Official career page."
   },
   {
     "bank": "City Bank PLC",
@@ -136,8 +123,7 @@
     "careers": "https://www.citybankplc.com/life-at-city-evp/job-list",
     "notes": "Career page / e-recruitment",
     "status": "Partly confirmed",
-    "description": "Official recruitment URL is referenced in recent hiring notices.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.thecitybank.com/ ; https://citybankplc.com/career"
+    "description": "Official recruitment URL is referenced in recent hiring notices."
   },
   {
     "bank": "Commercial Bank of Ceylon Limited",
@@ -146,8 +132,7 @@
     "careers": "https://www.combank.net.bd/about/career.html",
     "notes": "Bangladesh site + corporate career channels",
     "status": "Needs direct check",
-    "description": "No Bangladesh-specific career page was reliably indexed in this pass.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.combank.net/ ; https://erecruitment.bb.org.bd"
+    "description": "No Bangladesh-specific career page was reliably indexed in this pass."
   },
   {
     "bank": "Community Bank Bangladesh PLC",
@@ -156,8 +141,7 @@
     "careers": "https://www.communitybankbd.com/career/",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page and archive.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.communitybankbd.com/ ; https://www.communitybankbd.com/career/"
+    "description": "Official career page and archive."
   },
   {
     "bank": "Dhaka Bank PLC",
@@ -166,8 +150,7 @@
     "careers": "https://dhakabank.com.bd/human-resources/",
     "notes": "HR / Career page",
     "status": "Confirmed",
-    "description": "Official HR page includes Career Opportunities.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.dhakabank.com.bd/ ; https://dhakabank.com.bd/human-resources/"
+    "description": "Official HR page includes Career Opportunities."
   },
   {
     "bank": "Dutch-Bangla Bank PLC",
@@ -176,8 +159,7 @@
     "careers": "https://app.dutchbanglabank.com/Online_Job/",
     "notes": "Career page",
     "status": "Likely official",
-    "description": "Direct career path is the bank's standard recruitment route; re-check if redirected.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.dutchbanglabank.com/ ; https://www.dutchbanglabank.com/career/"
+    "description": "Direct career path is the bank's standard recruitment route; re-check if redirected."
   },
   {
     "bank": "Eastern Bank PLC",
@@ -186,8 +168,7 @@
     "careers": "https://ebl.bdjobs.com/",
     "notes": "Dedicated e-recruitment portal",
     "status": "Confirmed",
-    "description": "Official EBL career portal on bdjobs subdomain.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://ebl.com.bd/ ; https://ebl.bdjobs.com/"
+    "description": "Official EBL career portal on bdjobs subdomain."
   },
   {
     "bank": "Export Import Bank of Bangladesh PLC",
@@ -196,8 +177,7 @@
     "careers": "https://career.eximbankbd.com/",
     "notes": "Dedicated e-recruitment portal",
     "status": "Confirmed",
-    "description": "Official recruitment portal; institution is part of Sammilito Islami Bank consolidation.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.eximbankbd.com/ ; https://career.eximbankbd.com/"
+    "description": "Official recruitment portal; institution is part of Sammilito Islami Bank consolidation."
   },
   {
     "bank": "First Security Islami Bank PLC",
@@ -206,8 +186,7 @@
     "careers": "https://www.fsiblbd.com/",
     "notes": "Bank notices / Administrator notices",
     "status": "Confirmed",
-    "description": "Official site currently reflects administrator/resolution status; no reliable separate active career portal found.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.fsiblbd.com/ ; https://erecruitment.bb.org.bd"
+    "description": "Official site currently reflects administrator/resolution status; no reliable separate active career portal found."
   },
   {
     "bank": "Global Islami Bank PLC",
@@ -216,8 +195,7 @@
     "careers": "https://www.globalislamibankbd.com/career/",
     "notes": "Career page + current jobs page",
     "status": "Confirmed",
-    "description": "Official career page and jobs page exist; institution is part of Sammilito consolidation.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.globalislamibankbd.com/ ; https://www.globalislamibankbd.com/career/"
+    "description": "Official career page and jobs page exist; institution is part of Sammilito consolidation."
   },
   {
     "bank": "Habib Bank Ltd.",
@@ -226,8 +204,7 @@
     "careers": "https://www.hbl.com/careers",
     "notes": "Global HBL careers",
     "status": "Needs direct check",
-    "description": "Bangladesh-specific vacancy routing may use global HBL careers/HR.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://globalhbl.com/ ; https://www.hbl.com/careers"
+    "description": "Bangladesh-specific vacancy routing may use global HBL careers/HR."
   },
   {
     "bank": "ICB Islamic Bank Ltd.",
@@ -236,8 +213,7 @@
     "careers": "https://www.icbislamic-bd.com/career/",
     "notes": "Bank website / career notices",
     "status": "Confirmed",
-    "description": "No current indexed job list was surfaced in this pass.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.icbislamic-bd.com/ ; https://www.icbislamic-bd.com/career/"
+    "description": "No current indexed job list was surfaced in this pass."
   },
   {
     "bank": "IFIC Bank PLC",
@@ -246,8 +222,7 @@
     "careers": "https://ificbank.com.bd/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://ificbank.com.bd/ ; https://ificbank.com.bd/career"
+    "description": "Official career page."
   },
   {
     "bank": "Islami Bank Bangladesh PLC",
@@ -256,8 +231,7 @@
     "careers": "https://www.islamibankbd.com/career",
     "notes": "Career page",
     "status": "Confirmed",
-    "description": "Official career page; recent indexed jobs page appears stale, so also monitor notices.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://islamibankbd.com/ ; https://www.islamibankbd.com/career"
+    "description": "Official career page; recent indexed jobs page appears stale, so also monitor notices."
   },
   {
     "bank": "Jamuna Bank PLC",
@@ -266,8 +240,7 @@
     "careers": "https://career.jamunabank.com.bd/",
     "notes": "Dedicated career portal",
     "status": "Confirmed",
-    "description": "Bank career page points to the dedicated portal.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://jamunabankbd.com/ ; https://career.jamunabank.com.bd/"
+    "description": "Bank career page points to the dedicated portal."
   },
   {
     "bank": "Janata Bank PLC",
@@ -276,8 +249,7 @@
     "careers": "https://janatabank-bd.com/",
     "notes": "Bank notices + Bangladesh Bank e-Recruitment",
     "status": "Needs direct check",
-    "description": "State-owned bank recruitment is often routed through the centralized BB recruitment system.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://janatabank-bd.com/ ; https://erecruitment.bb.org.bd"
+    "description": "State-owned bank recruitment is often routed through the centralized BB recruitment system."
   },
   {
     "bank": "Meghna Bank PLC",
@@ -286,8 +258,7 @@
     "careers": "https://www.meghnabank.com.bd/",
     "notes": "Bank career notices / HR email",
     "status": "Needs direct check",
-    "description": "Official HR recruiting is also advertised through the bank's HR channels.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.meghnabank.com.bd/ ; https://erecruitment.bb.org.bd"
+    "description": "Official HR recruiting is also advertised through the bank's HR channels."
   },
   {
     "bank": "Mercantile Bank PLC",
@@ -296,8 +267,7 @@
     "careers": "https://mblbd.com/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://mblbd.com/ ; https://mblbd.com/career"
+    "description": "Official career page."
   },
   {
     "bank": "Midland Bank Limited",
@@ -306,8 +276,7 @@
     "careers": "https://www.midlandbankbd.net/career/",
     "notes": "Dedicated career page / applicant tracking",
     "status": "Confirmed",
-    "description": "Official career page explains online application and tracking.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.midlandbankbd.net/ ; https://www.midlandbankbd.net/career/"
+    "description": "Official career page explains online application and tracking."
   },
   {
     "bank": "Modhumoti Bank PLC",
@@ -316,8 +285,7 @@
     "careers": "https://www.modhumotibankplc.com/career/",
     "notes": "Dedicated career portal",
     "status": "Confirmed",
-    "description": "Official career page points to the application portal.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.modhumotibankplc.com/ ; https://www.modhumotibankplc.com/career/"
+    "description": "Official career page points to the application portal."
   },
   {
     "bank": "Mutual Trust Bank PLC",
@@ -326,8 +294,7 @@
     "careers": "https://www.mutualtrustbank.com/about-us/career/",
     "notes": "Career page + vacancy notices",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.mutualtrustbank.com/ ; https://www.mutualtrustbank.com/about-us/career/"
+    "description": "Official career page."
   },
   {
     "bank": "National Bank PLC",
@@ -336,8 +303,7 @@
     "careers": "https://www.nblbd.com/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.nblbd.com/ ; https://www.nblbd.com/career"
+    "description": "Official career page."
   },
   {
     "bank": "National Credit & Commerce Bank PLC",
@@ -346,8 +312,7 @@
     "careers": "https://www.nccbank.com.bd/Career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page currently includes MT program/job openings.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.nccbank.com.bd/ ; https://www.nccbank.com.bd/Career"
+    "description": "Official career page currently includes MT program/job openings."
   },
   {
     "bank": "NRB Bank PLC",
@@ -356,8 +321,7 @@
     "careers": "https://www.nrbbankbd.com/career/",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.nrbbankbd.com/ ; https://www.nrbbankbd.com/career/"
+    "description": "Official career page."
   },
   {
     "bank": "NRBC Bank PLC",
@@ -366,8 +330,7 @@
     "careers": "https://www.nrbcommercialbank.com/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page contains Vacancy List and recruitment process.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.nrbcommercialbank.com/ ; https://www.nrbcommercialbank.com/career"
+    "description": "Official career page contains Vacancy List and recruitment process."
   },
   {
     "bank": "ONE Bank PLC",
@@ -376,8 +339,7 @@
     "careers": "https://career.onebank.com.bd/career/",
     "notes": "Dedicated e-recruitment portal",
     "status": "Confirmed",
-    "description": "Official portal supports registration, CV submission and job applications.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.onebank.com.bd/ ; https://career.onebank.com.bd/career/"
+    "description": "Official portal supports registration, CV submission and job applications."
   },
   {
     "bank": "Padma Bank PLC",
@@ -386,8 +348,7 @@
     "careers": "https://www.padmabankbd.com/career-job-openings",
     "notes": "Dedicated career/job openings page",
     "status": "Confirmed",
-    "description": "Official page currently shows no circulars in the indexed snapshot.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.padmabankbd.com/ ; https://www.padmabankbd.com/career-job-openings"
+    "description": "Official page currently shows no circulars in the indexed snapshot."
   },
   {
     "bank": "Prime Bank PLC",
@@ -396,8 +357,7 @@
     "careers": "https://www.primebank.com.bd/career",
     "notes": "Career page + vacancy links",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.primebank.com.bd/ ; https://www.primebank.com.bd/career"
+    "description": "Official career page."
   },
   {
     "bank": "Probashi Kallyan Bank",
@@ -406,8 +366,7 @@
     "careers": "https://pkb.gov.bd/",
     "notes": "Government notices + Bangladesh Bank e-Recruitment",
     "status": "Needs direct check",
-    "description": "Official government site is the primary notice channel.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://pkb.gov.bd/ ; https://erecruitment.bb.org.bd"
+    "description": "Official government site is the primary notice channel."
   },
   {
     "bank": "Pubali Bank PLC",
@@ -416,8 +375,7 @@
     "careers": "https://www.pubalibangla.com/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page currently carries recruitment/testing notices.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.pubalibangla.com/ ; https://www.pubalibangla.com/career"
+    "description": "Official career page currently carries recruitment/testing notices."
   },
   {
     "bank": "Rajshahi Krishi Unnayan Bank",
@@ -426,8 +384,7 @@
     "careers": "https://rakub.org.bd/",
     "notes": "Online Recruitment + official notices",
     "status": "Confirmed",
-    "description": "Official home page exposes Online Recruitment and Recruitment links.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://rakub.org.bd/ ; https://erecruitment.bb.org.bd"
+    "description": "Official home page exposes Online Recruitment and Recruitment links."
   },
   {
     "bank": "Rupali Bank PLC",
@@ -436,8 +393,7 @@
     "careers": "https://www.rupalibank.com.bd/notice_jquery.php?type=20",
     "notes": "Career/Job Opportunity listing",
     "status": "Confirmed",
-    "description": "Official Career/Job Opportunity section.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.rupalibank.com.bd/ ; https://www.rupalibank.com.bd/notice_jquery.php?type=20"
+    "description": "Official Career/Job Opportunity section."
   },
   {
     "bank": "Sammilito Islami Bank PLC",
@@ -446,8 +402,7 @@
     "careers": "https://sammilitobankbd.com/career.php",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official site identifies the five merged banks and exposes a Career section.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://sammilitobankbd.com/ ; https://sammilitobankbd.com/career.php"
+    "description": "Official site identifies the five merged banks and exposes a Career section."
   },
   {
     "bank": "SBAC Bank PLC",
@@ -456,8 +411,7 @@
     "careers": "https://www.sbacbank.com/career",
     "notes": "Career page",
     "status": "Likely official",
-    "description": "Official homepage currently exposes Career; direct indexed career page not surfaced in this pass.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.sbacbank.com/ ; https://www.sbacbank.com/career"
+    "description": "Official homepage currently exposes Career; direct indexed career page not surfaced in this pass."
   },
   {
     "bank": "Shahjalal Islami Bank PLC",
@@ -466,8 +420,7 @@
     "careers": "https://sjiblbd.com/career.php",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://sjiblbd.com/ ; https://sjiblbd.com/career.php"
+    "description": "Official career page."
   },
   {
     "bank": "Shimanto Bank PLC",
@@ -476,8 +429,7 @@
     "careers": "https://career.shimantobank.com/",
     "notes": "Dedicated career portal",
     "status": "Confirmed",
-    "description": "New career portal launched in 2026 and supports job circulars/CV bank.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.shimantobank.com/ ; https://career.shimantobank.com/"
+    "description": "New career portal launched in 2026 and supports job circulars/CV bank."
   },
   {
     "bank": "Social Islami Bank PLC",
@@ -486,8 +438,7 @@
     "careers": "https://www.siblbd.com/home/career",
     "notes": "Career page",
     "status": "Confirmed",
-    "description": "Official career page; institution is part of Sammilito consolidation.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.siblbd.com/ ; https://www.siblbd.com/home/career"
+    "description": "Official career page; institution is part of Sammilito consolidation."
   },
   {
     "bank": "Sonali Bank PLC",
@@ -496,8 +447,7 @@
     "careers": "https://www.sonalibank.com.bd/sblrec/applicant/home.php",
     "notes": "Dedicated recruitment portal + notices",
     "status": "Confirmed",
-    "description": "Official Sonali recruitment portal provides recruitment advertisements and results.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.sonalibank.com.bd/ ; https://www.sonalibank.com.bd/sblrec/applicant/home.php"
+    "description": "Official Sonali recruitment portal provides recruitment advertisements and results."
   },
   {
     "bank": "Southeast Bank PLC",
@@ -506,8 +456,7 @@
     "careers": "https://www.southeastbank.com.bd/?page=career",
     "notes": "Career page",
     "status": "Confirmed",
-    "description": "Official career page; indexed snapshot showed no data, so monitor notices as well.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.southeastbank.com.bd/ ; https://www.southeastbank.com.bd/?page=career"
+    "description": "Official career page; indexed snapshot showed no data, so monitor notices as well."
   },
   {
     "bank": "Standard Chartered Bank",
@@ -516,8 +465,7 @@
     "careers": "https://www.sc.com/en/global-careers/",
     "notes": "Global careers with Bangladesh location filter",
     "status": "Confirmed",
-    "description": "Official global careers system; Bangladesh is included in location search.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.sc.com/bd/ ; https://www.sc.com/en/global-careers/"
+    "description": "Official global careers system; Bangladesh is included in location search."
   },
   {
     "bank": "Standard Islami Bank PLC",
@@ -526,8 +474,7 @@
     "careers": "https://career.standardbankbd.com/",
     "notes": "Dedicated recruitment portal",
     "status": "Confirmed",
-    "description": "Official portal currently lists September 2026 openings.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.standardbankbd.com/ ; https://career.standardbankbd.com/"
+    "description": "Official portal currently lists September 2026 openings."
   },
   {
     "bank": "The Hong Kong and Shanghai Banking Corporation Ltd. (HSBC)",
@@ -536,8 +483,7 @@
     "careers": "https://portal.careers.hsbc.com/careers?domain=hsbc.com&location=Bangladesh",
     "notes": "Global careers filtered to Bangladesh + Bangladesh careers page",
     "status": "Confirmed",
-    "description": "Official HSBC Bangladesh careers page directs applicants to current opportunities; global portal currently has Bangladesh results.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.hsbc.com.bd/ ; https://portal.careers.hsbc.com/careers?domain=hsbc.com&location=Bangladesh"
+    "description": "Official HSBC Bangladesh careers page directs applicants to current opportunities; global portal currently has Bangladesh results."
   },
   {
     "bank": "The Premier Bank PLC",
@@ -546,8 +492,7 @@
     "careers": "https://thepremierbankplc.com/career/",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official career page.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.thepremierbankplc.com/ ; https://thepremierbankplc.com/career/"
+    "description": "Official career page."
   },
   {
     "bank": "Trust Bank PLC",
@@ -556,8 +501,7 @@
     "careers": "https://career.tblbd.com/",
     "notes": "Dedicated CV/job portal + career page",
     "status": "Confirmed",
-    "description": "Official career portal supports current opportunities and candidate registration.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.trustbank.com.bd/ ; https://career.tblbd.com/"
+    "description": "Official career portal supports current opportunities and candidate registration."
   },
   {
     "bank": "Union Bank PLC",
@@ -566,8 +510,7 @@
     "careers": "https://www.unionbank.com.bd/",
     "notes": "Bank career notices / HR email",
     "status": "Confirmed",
-    "description": "Official recruitment notices exist; institution is part of Sammilito consolidation.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.unionbank.com.bd/ ; https://erecruitment.bb.org.bd"
+    "description": "Official recruitment notices exist; institution is part of Sammilito consolidation."
   },
   {
     "bank": "United Commercial Bank PLC",
@@ -576,8 +519,7 @@
     "careers": "https://www.ucb.com.bd/career/opportunity-details",
     "notes": "Dedicated career portal",
     "status": "Confirmed",
-    "description": "Official current-openings page lists roles including Business Intelligence & Analytics Officer.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.ucb.com.bd/ ; https://www.ucb.com.bd/career/opportunity-details"
+    "description": "Official current-openings page lists roles including Business Intelligence & Analytics Officer."
   },
   {
     "bank": "Uttara Bank PLC",
@@ -586,8 +528,7 @@
     "careers": "https://www.uttarabank-bd.com/home/career",
     "notes": "Dedicated career page",
     "status": "Confirmed",
-    "description": "Official page contains job/admit/result notices.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.uttarabank-bd.com/ ; https://www.uttarabank-bd.com/home/career"
+    "description": "Official page contains job/admit/result notices."
   },
   {
     "bank": "Woori Bank",
@@ -596,7 +537,6 @@
     "careers": "https://www.wooribank.com/",
     "notes": "Bangladesh site + corporate careers",
     "status": "Needs direct check",
-    "description": "No Bangladesh-specific career page was reliably indexed in this pass.",
-    "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://bd.wooribank.com/ ; https://www.wooribank.com/"
+    "description": "No Bangladesh-specific career page was reliably indexed in this pass."
   }
 ]
