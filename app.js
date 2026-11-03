@@ -16,6 +16,9 @@ const UI = {
     notes: "Notes",
     alljobsTitle: "Alljobs by Teletalk",
     alljobsDesc: "Government and private jobs in Bangladesh.",
+    bdjobsTitle: "bdjobs.com",
+    bdjobsDesc: "Bangladesh's largest job portal — browse all jobs.",
+    jobPortal: "Job portal",
     visitSite: "Visit site",
     footer: "Generated from the Bangladesh Bank Careers Directory 2026 and bdjobs links.",
     langButton: "বাংলা",
@@ -38,6 +41,9 @@ const UI = {
     notes: "নোট",
     alljobsTitle: "অলজবস বাই টেলিটক",
     alljobsDesc: "বাংলাদেশের সরকারি ও বেসরকারি চাকরি।",
+    bdjobsTitle: "বিডিজবস.কম",
+    bdjobsDesc: "বাংলাদেশের সবচেয়ে বড় চাকরির পোর্টাল — সব চাকরি দেখুন।",
+    jobPortal: "চাকরির পোর্টাল",
     visitSite: "সাইটে যান",
     footer: "বাংলাদেশ ব্যাংক ক্যারিয়ার ডিরেক্টরি ২০২৬ ও বিডিজবস লিংক থেকে তৈরি।",
     langButton: "English",
@@ -180,16 +186,28 @@ function initBanks() {
 
 function renderFeaturedPortal() {
   const el = $("#featuredPortal");
-  el.innerHTML = `
-    <article class="featured-card">
+  const portals = [
+    {
+      title: t("alljobsTitle"),
+      desc: t("alljobsDesc"),
+      url: "https://alljobs.teletalk.com.bd/"
+    },
+    {
+      title: t("bdjobsTitle"),
+      desc: t("bdjobsDesc"),
+      url: "https://bdjobs.com/h/jobs"
+    }
+  ];
+  el.innerHTML = portals.map((portal, index) => `
+    <article class="featured-card ${index === 1 ? "secondary" : ""}">
       <div>
-        <span class="eyebrow">${state.lang === "bn" ? "চাকরির পোর্টাল" : "Job portal"}</span>
-        <h3>${t("alljobsTitle")}</h3>
-        <p>${t("alljobsDesc")}</p>
+        <span class="eyebrow">${t("jobPortal")}</span>
+        <h3>${portal.title}</h3>
+        <p>${portal.desc}</p>
       </div>
-      <a class="primary-btn" href="https://alljobs.teletalk.com.bd/" target="_blank" rel="noopener">${t("visitSite")} ↗</a>
+      <a class="primary-btn" href="${portal.url}" target="_blank" rel="noopener">${t("visitSite")} ↗</a>
     </article>
-  `;
+  `).join("");
 }
 
 function renderJobs() {

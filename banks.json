@@ -172,7 +172,7 @@
   },
   {
     "bank": "Export Import Bank of Bangladesh PLC",
-    "category": "Private Islamic Commercial Bank*",
+    "category": "Private Islamic Commercial Bank",
     "website": "https://www.eximbankbd.com/",
     "careers": "https://career.eximbankbd.com/",
     "notes": "Dedicated e-recruitment portal",
@@ -181,7 +181,7 @@
   },
   {
     "bank": "First Security Islami Bank PLC",
-    "category": "Private Islamic Commercial Bank*",
+    "category": "Private Islamic Commercial Bank",
     "website": "https://www.fsiblbd.com/",
     "careers": "https://www.fsiblbd.com/",
     "notes": "Bank notices / Administrator notices",
@@ -190,7 +190,7 @@
   },
   {
     "bank": "Global Islami Bank PLC",
-    "category": "Private Islamic Commercial Bank*",
+    "category": "Private Islamic Commercial Bank",
     "website": "https://www.globalislamibankbd.com/",
     "careers": "https://www.globalislamibankbd.com/career/",
     "notes": "Career page + current jobs page",
@@ -433,7 +433,7 @@
   },
   {
     "bank": "Social Islami Bank PLC",
-    "category": "Private Islamic Commercial Bank*",
+    "category": "Private Islamic Commercial Bank",
     "website": "https://www.siblbd.com/",
     "careers": "https://www.siblbd.com/home/career",
     "notes": "Career page",
@@ -505,7 +505,7 @@
   },
   {
     "bank": "Union Bank PLC",
-    "category": "Private Islamic Commercial Bank*",
+    "category": "Private Islamic Commercial Bank",
     "website": "https://www.unionbank.com.bd/",
     "careers": "https://www.unionbank.com.bd/",
     "notes": "Bank career notices / HR email",
