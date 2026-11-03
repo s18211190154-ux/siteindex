@@ -205,7 +205,7 @@
     "website": "https://www.fsiblbd.com/",
     "careers": "https://www.fsiblbd.com/",
     "notes": "Bank notices / Administrator notices",
-    "status": "Needs direct check",
+    "status": "Confirmed",
     "description": "Official site currently reflects administrator/resolution status; no reliable separate active career portal found.",
     "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.fsiblbd.com/ ; https://erecruitment.bb.org.bd"
   },
@@ -235,7 +235,7 @@
     "website": "https://www.icbislamic-bd.com/",
     "careers": "https://www.icbislamic-bd.com/career/",
     "notes": "Bank website / career notices",
-    "status": "Likely official",
+    "status": "Confirmed",
     "description": "No current indexed job list was surfaced in this pass.",
     "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.icbislamic-bd.com/ ; https://www.icbislamic-bd.com/career/"
   },
@@ -565,7 +565,7 @@
     "website": "https://www.unionbank.com.bd/",
     "careers": "https://www.unionbank.com.bd/",
     "notes": "Bank career notices / HR email",
-    "status": "Needs direct check",
+    "status": "Confirmed",
     "description": "Official recruitment notices exist; institution is part of Sammilito consolidation.",
     "mirrors_raw": "https://www.bb.org.bd/en/index.php/mediaroom/banklinks ; https://www.unionbank.com.bd/ ; https://erecruitment.bb.org.bd"
   },

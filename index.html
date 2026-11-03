@@ -4,45 +4,55 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SiteIndex - Bangladesh Banks & Jobs</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header>
-  <h1>SiteIndex</h1>
+  <div class="brand">
+    <h1>SiteIndex</h1>
+    <span class="tagline" data-i18n="tagline">Bangladesh banks & jobs</span>
+  </div>
   <nav>
-    <button data-tab="banks" class="active">Banks</button>
-    <button data-tab="jobs">Job Links</button>
-    <button data-tab="mirrors">Mirrors</button>
+    <button data-tab="banks" class="active" data-i18n="navBanks">Banks</button>
+    <button data-tab="jobs" data-i18n="navJobs">Job Links</button>
   </nav>
+  <button id="langToggle" class="lang-toggle" aria-label="Switch language">বাংলা</button>
 </header>
+
 <main>
   <section id="banks" class="tab active">
+    <div class="section-head">
+      <div>
+        <h2 data-i18n="banksTitle">Bangladesh Banks</h2>
+        <p class="muted" data-i18n="banksSubtitle">Official websites and career pages, grouped by category.</p>
+      </div>
+      <span id="bankCount" class="count"></span>
+    </div>
     <div class="controls">
-      <input id="search" placeholder="Search banks..." />
-      <select id="categoryFilter">
-        <option value="">All Categories</option>
-      </select>
+      <input id="search" data-i18n-placeholder="searchPlaceholder" placeholder="Search banks..." />
+      <select id="categoryFilter"></select>
     </div>
     <div id="banksGrid" class="grid"></div>
   </section>
 
   <section id="jobs" class="tab">
-    <h2>bdjobs Categories</h2>
-    <ul id="jobsList" class="list"></ul>
-  </section>
-
-  <section id="mirrors" class="tab">
-    <h2>Site Mirrors</h2>
-    <div class="controls">
-      <button id="prevBank">← Prev</button>
-      <select id="mirrorBankSelect"></select>
-      <button id="nextBank">Next →</button>
+    <div class="section-head">
+      <div>
+        <h2 data-i18n="jobsTitle">Job Links</h2>
+        <p class="muted" data-i18n="jobsSubtitle">Job portals and bdjobs categories.</p>
+      </div>
     </div>
-    <div id="mirrorDetails" class="card"></div>
+
+    <div id="featuredPortal" class="featured"></div>
+
+    <h3 class="subhead" data-i18n="bdjobsCategories">bdjobs Categories</h3>
+    <div id="jobsList" class="job-list"></div>
   </section>
 </main>
+
 <footer>
-  <p>Generated from Bangladesh Bank Careers Directory 2026 & bdjobs links.</p>
+  <p data-i18n="footer">Generated from the Bangladesh Bank Careers Directory 2026 and bdjobs links.</p>
 </footer>
 <script src="app.js"></script>
 </body>

@@ -1,1 +1,67 @@
-["https://bdjobs.com/h/jobs?lang=en&workstation=home", "https://bdjobs.com/h/jobs?lang=en&fcatId=2", "https://bdjobs.com/h/jobs?lang=en&fcatId=71", "https://bdjobs.com/h/jobs?lang=en&fcatId=1", "https://bdjobs.com/h/jobs?lang=en&fcatId=12", "https://bdjobs.com/h/jobs?lang=en&fcatId=4", "https://bdjobs.com/h/jobs?lang=en&fcatId=8", "https://bdjobs.com/h/jobs?lang=en&fcatId=13", "https://bdjobs.com/h/jobs?lang=en&fcatId=18", "https://bdjobs.com/h/jobs?lang=en&fcatId=17", "https://bdjobs.com/h/jobs?lang=en&fcatId=7", "https://bdjobs.com/h/jobs?lang=en&fcatId=10", "https://bdjobs.com/h/jobs?lang=en&fcatId=30"]
+[
+  {
+    "title": "All Jobs",
+    "titleBn": "সব চাকরি",
+    "url": "https://bdjobs.com/h/jobs?lang=en&workstation=home"
+  },
+  {
+    "title": "Bank/Non-Bank Fin. Institution",
+    "titleBn": "ব্যাংক/আর্থিক প্রতিষ্ঠান",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=2"
+  },
+  {
+    "title": "Graphic Designer",
+    "titleBn": "গ্রাফিক ডিজাইনার",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=71"
+  },
+  {
+    "title": "Accounting/Finance",
+    "titleBn": "হিসাব/অর্থ",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=1"
+  },
+  {
+    "title": "NGO/Development",
+    "titleBn": "এনজিও/উন্নয়ন",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=12"
+  },
+  {
+    "title": "Education/Training",
+    "titleBn": "শিক্ষা/প্রশিক্ষণ",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=4"
+  },
+  {
+    "title": "IT/Telecommunication",
+    "titleBn": "আইটি/টেলিযোগাযোগ",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=8"
+  },
+  {
+    "title": "Research/Consultancy",
+    "titleBn": "গবেষণা/পরামর্শ",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=13"
+  },
+  {
+    "title": "Design/Creative",
+    "titleBn": "ডিজাইন/সৃজনশীল",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=18"
+  },
+  {
+    "title": "HR/Org. Development",
+    "titleBn": "এইচআর/প্রাতিষ্ঠানিক উন্নয়ন",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=17"
+  },
+  {
+    "title": "General Management/Admin",
+    "titleBn": "সাধারণ ব্যবস্থাপনা/প্রশাসন",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=7"
+  },
+  {
+    "title": "Media/Advertisement/Event Mgt.",
+    "titleBn": "মিডিয়া/বিজ্ঞাপন/ইভেন্ট",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=10"
+  },
+  {
+    "title": "E-commerce/ Digital Marketing",
+    "titleBn": "ই-কমার্স/ডিজিটাল মার্কেটিং",
+    "url": "https://bdjobs.com/h/jobs?lang=en&fcatId=30"
+  }
+]

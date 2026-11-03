@@ -1,12 +1,20 @@
 # SiteIndex
 
-Website index for Bangladesh banks careers and bdjobs links.
+Website index for Bangladesh banks careers and job links.
 
 ## Features
-- **Banks**: Browse 60+ banks by category with website and career page links
-- **Job Links**: bdjobs category links
-- **Mirrors**: Browse site mirrors with Next/Prev navigation
-
-Open `index.html` in browser or view on GitHub Pages.
+- **Banks**: Browse all 60 banks by category with website and career page links
+- **Job Links**: Alljobs by Teletalk portal plus bdjobs category links with readable titles
+- **English / Bangla toggle**: Switch the whole interface between English and বাংলা
+- **Search & filters**: Find banks by name, category, or description
 
 Data source: `bangladesh_bank_careers_directory_2026.xlsx.xlsx` and `New Text Document.txt`
+
+## Local preview
+Open `index.html` in a browser, or run:
+
+```bash
+python -m http.server 8000
+```
+
+Then visit `http://localhost:8000/`.
